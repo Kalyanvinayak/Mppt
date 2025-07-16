@@ -272,11 +272,6 @@ We welcome contributions from the community! Here's how you can help:
 
 **⭐ Star this repository if you find it helpful!**
 
-**🤝 Connect with us**
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-
 **Made with ❤️ for sustainable energy solutions**
 
 </div>
